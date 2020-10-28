@@ -1,0 +1,4 @@
+sno,tweet,tweet_at,sent
+1,First Tweet,2020-10-26 18:55,True
+2,Second Tweet,2020-10-26 19:00,True
+3,Second Tweet,2020-10-29 19:00,False
